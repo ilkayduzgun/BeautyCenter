@@ -1,0 +1,35 @@
+.menu{
+
+    color: rgb(136, 38, 145);
+    font-size: 20px;
+}
+body{
+    background-color: rgb(238, 214, 218);
+
+}
+.sayfa{
+                
+    background-color: rgb(238, 214, 218);
+
+}
+header{
+    border-style:outset;
+    height: 55px;
+    line-height:15px;
+    background-color: white;
+    text-align:center
+
+}
+nav{
+    border-style:ridge;
+    height: 50px;
+    line-height:45px;
+    text-align:center;
+
+}
+footer{
+    border-style: initial;
+    height: 55px;
+    background-color: rgb(238, 214, 218);
+
+}
